@@ -100,7 +100,7 @@ a {
     margin: 5px;
     cursor: pointer;
 }
-/* убрать тайпы попробовать*/
+
 #slide1:checked ~.subslide-wrapper> .pagginator > #slide-button-1,
 #slide2:checked ~.subslide-wrapper> .pagginator > #slide-button-2,
 #slide3:checked ~.subslide-wrapper> .pagginator > #slide-button-3,
